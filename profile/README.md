@@ -1,7 +1,7 @@
 Scribellates
 ==========
 
-Scribellates est un collectifs d'auteurs amateurs travaillant pour la promotion, la protection et l’aide au développement du web novel libre et gratuit pour tous.
+Scribellates est un collectifs d'auteurs amateurs travaillant pour la promotion, la protection et l’aide au développement du web novel français libre et gratuit pour tous.
 
 Projets
 ---------
